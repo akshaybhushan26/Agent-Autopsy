@@ -54,11 +54,3 @@ Ressl AI's public research on SalesforceBench and simulated software environment
 
 - [Ressl: SalesforceBench](https://research.ressl.ai/salesforcebench/)
 - [Ressl: Don't vibe code your software clones](https://research.ressl.ai/dont-vibe-code-your-software-clones/)
-
-Built as a compact work sample for engineering outreach, October 2026.
-
-## Share and demo
-
-Open `agent_autopsy_report.html` and expand any **Tool trace** and **Final state** section. This report is generated from the same cases evaluated by `engine.py`, not screenshots or claimed results. You can host the HTML as a static GitHub Pages site, or share the repository link directly.
-
-Suggested one-line description: *A lightweight state-based verifier that catches when recorded AI-agent actions disagree with the claimed result.*
